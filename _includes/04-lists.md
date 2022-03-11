@@ -1,1 +1,15 @@
-Replace this with a list of your favorite things.
+1. Smiles
+  1. 😄
+  2. 🙂
+  3. 😃 
+2. Nature
+  1. 🌲
+  2. 🌳
+  3. 🌴 
+
+* Items
+  * 🥖
+  * 🥚
+* Sports
+  * 🎾
+  * 🎿 
